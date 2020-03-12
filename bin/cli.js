@@ -1,0 +1,1 @@
+require('sbtcreate/src/index');

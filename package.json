@@ -1,0 +1,28 @@
+{
+  "name": "create-usopp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "create-usopp": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everygit/create-usopp.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "austin.sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everygit/create-usopp/issues"
+  },
+  "homepage": "https://github.com/everygit/create-usopp#readme",
+  "dependencies": {
+    "sbtcreate": "latest"
+  }
+}
