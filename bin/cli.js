@@ -1,1 +1,5 @@
-require('sbtcreate/src/index');
+#!/usr/bin/env node
+
+
+
+require('../src/index');
